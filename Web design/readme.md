@@ -10,3 +10,8 @@ Pour la réalisation de cette maquette je me suis basée sur la charte graphique
 ## GPA Automobiles
 
 Dans le cadre d'un projet au cours de ma formation chez Simplon.co, j'ai créé cette maquette pour le site web de [GPA Automobiles](https://gpa-automobiles.fr/). Mon groupe avait pour mission de maquetter, développer et mettre en ligne un site de vente de voitures d'occasion pour notre client.
+
+
+## Simply War
+
+Initialement un projet pédagogique intitulé "Simplon War", le focus était de monter en compétence dans le développement back-end. Par conséquent, un wireframe basique était fourni afin de ne pas avoir à passer de temps sur le design du projet. Une fois le projet effectué, j'ai décidé de revisiter le wireframe pendant mon temps personnel et de me lancer dans la création d'une maquette.
