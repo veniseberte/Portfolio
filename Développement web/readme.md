@@ -14,4 +14,4 @@ Comme requis par le cahier des charges, j'ai développé le site avec un thème 
 Auglans est en ligne [ici](http://www.auglans.fr/).
 
 ## SVG pour La Relève
-J'ai créé cette SVG animée de petites "bulles" pour le site web de la brasserie [La Relève](https://lareleve-brasserie.fr/).
+J'ai créé cette SVG animée de petites "bulles" pour le site web de la brasserie La Relève (malheureusement la brasserie a fermé et le site n'est plus en ligne !).
